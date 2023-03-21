@@ -1,4 +1,3 @@
-![Profile View Counter](https://komarev.com/ghpvc/?username=surbhidighe)
 
 ### :wave: Hi there, I am Surbhi Dighe
 
